@@ -1,0 +1,2 @@
+ARQUIVO_JSON = 'cadastro_produtos.json' # Aqui estou declarando uma variável com o nome do arquivo JSON onde os produtos serão salvos.
+# Isso facilita se eu quiser trocar o nome ou o caminho depois — só preciso mudar aqui.
